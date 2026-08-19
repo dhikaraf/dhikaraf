@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a student at Gunadarma University
+- 🔭 I’m a student at Gunadarma University
 - 🌱 I’m currently learning Backend
 
 ##### Skills
